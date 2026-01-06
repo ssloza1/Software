@@ -1,0 +1,13 @@
+ec\edu\espe\bill\controller\BillDAO.class
+ec\edu\espe\bill\controller\ClientDAO.class
+ec\edu\espe\bill\view\Factura$2.class
+ec\edu\espe\bill\controller\MongoDBManager.class
+ec\edu\espe\bill\view\Producto$2.class
+ec\edu\espe\bill\view\Factura$1.class
+ec\edu\espe\bill\view\Factura$5.class
+ec\edu\espe\bill\view\Producto$1.class
+ec\edu\espe\bill\view\Producto.class
+ec\edu\espe\bill\view\Factura.class
+ec\edu\espe\bill\view\Factura$3.class
+ec\edu\espe\bill\view\Factura$4.class
+ec\edu\espe\bill\controller\ProductDAO.class
